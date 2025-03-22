@@ -1,0 +1,16 @@
+# Rust
+/target
+Cargo.lock
+
+# C++
+*.o
+*.out
+*.exe
+
+# OS
+.DS_Store
+
+# VSCode or IDE
+.vscode/
+.idea/
+
